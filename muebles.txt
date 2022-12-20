@@ -2,3 +2,6 @@ silla
 estanteria
 sillon
 estanterias
+
+adri
+acceso
